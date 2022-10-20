@@ -1,0 +1,9 @@
+{
+    "username": "username",
+    "password": "super_secret_password",
+    "server": "ICMarkets-Demo",
+    "mt5Pathway": "C:/Program Files/ICMarkets - MetaTrader 5/terminal64.exe",
+    "symbols": [
+        "USDJPY.a"
+    ]
+}
